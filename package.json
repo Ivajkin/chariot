@@ -17,7 +17,7 @@
     "jshint": "~2.11.0-rc1",
     "kew": "~0.7.0",
     "npmlog": "~4.1.2",
-    "requirejs": "~2.3.6",
+    "requirejs": "~2.1.22",
     "uglify-js": "~2.8.29"
   },
   "deprecated": false,
@@ -45,5 +45,5 @@
     "type": "git",
     "url": "git+https://github.com/BlueSpire/Durandal.git"
   },
-  "version": "2.1.1"
+  "version": "2.1.2"
 }
