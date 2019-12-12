@@ -39,7 +39,7 @@
   ],
   "license": "MIT & Tim",
   "main": "./lib/index.js",
-  "name": "chariot",
+  "name": "baldur-chariot",
   "preferGlobal": true,
   "repository": {
     "type": "git",
