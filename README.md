@@ -11,7 +11,7 @@ Chariot is build optimizer.
 ## Usage
 
 1. Install NodeJS and NPM
-2. On the command line execute `npm install -g chariot`
+2. On the command line execute `npm install -g baldur-chariot`
 3. Navigate into your web project and place a chariot-config file at the root.
 4. From your project directory execute `chariot build`
 
