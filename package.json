@@ -18,7 +18,7 @@
     "kew": "~0.1.7",
     "npmlog": "~0.0.3",
     "requirejs": "~2.1.6",
-    "uglify-js": "~2.3.6"
+    "uglify-js": "~3.7.2"
   },
   "deprecated": false,
   "description": "Chariot build optimizer.",
