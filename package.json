@@ -18,7 +18,7 @@
     "kew": "~0.7.0",
     "npmlog": "~4.1.2",
     "requirejs": "~2.3.6",
-    "uglify-js": "~3.7.2"
+    "uglify-js": "~2.8.29"
   },
   "deprecated": false,
   "description": "Chariot build optimizer.",
@@ -45,5 +45,5 @@
     "type": "git",
     "url": "git+https://github.com/BlueSpire/Durandal.git"
   },
-  "version": "2.1.0"
+  "version": "2.1.1"
 }
