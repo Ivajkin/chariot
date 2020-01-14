@@ -19,7 +19,8 @@
     "npmlog": "~0.0.3",
     "requirejs": "~2.1.6",
     "uglify-js": "~2.3.6",
-    "@babel/core": "~7.8.3"
+    "@babel/core": "~7.8.3",
+    "@babel/plugin-transform-arrow-functions": "~7.8.3"
   },
   "deprecated": false,
   "description": "Chariot build optimizer.",
@@ -46,5 +47,5 @@
     "type": "git",
     "url": "git+https://github.com/Ivajkin/chariot.git"
   },
-  "version": "2.1.6"
+  "version": "2.1.7"
 }
